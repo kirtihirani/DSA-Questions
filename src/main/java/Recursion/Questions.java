@@ -3,7 +3,7 @@ package Recursion;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Questions {
+public class BasicRecursionQuestions {
 
     static void printName(int n){
 
